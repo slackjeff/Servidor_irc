@@ -1,0 +1,9 @@
+# zfs list
+
+NAME                      USED  REFER  MOUNTPOINT
+zroot/jails              8.39G   197M  /usr/local/jails
+zroot/jails/janope       1.26G  1.26G  /usr/local/jails/janope
+zroot/jails/ji2pd        1.32G  1.32G  /usr/local/jails/ji2pd
+zroot/jails/jlimnoria    3.36G  3.36G  /usr/local/jails/jlimnoria
+zroot/jails/jtor         1.05G  1.05G  /usr/local/jails/jtor
+zroot/jails/junrealircd  1.22G  1.22G  /usr/local/jails/junrealircd
