@@ -1,0 +1,3 @@
+HiddenServiceDir /var/db/tor/irc_service/
+HiddenServicePort 6697 unix:/var/run/unrealircd/tor_ircd.socket
+
