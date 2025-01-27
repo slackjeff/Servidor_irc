@@ -1,0 +1,6 @@
+# Dataset Snapshots - 02 a.m.
+0 2 * * * /sbin/zfs snapshot zroot/jails/junrealircd@$(date +%Y-%m-%d)
+0 2 * * * /sbin/zfs snapshot zroot/jails/janope@$(date +%Y-%m-%d)
+0 2 * * * /sbin/zfs snapshot zroot/jails/jtor@$(date +%Y-%m-%d)
+0 2 * * * /sbin/zfs snapshot zroot/jails/ji2pd@$(date +%Y-%m-%d)
+0 2 * * * /sbin/zfs snapshot zroot/jails/jlimnoria@$(date +%Y-%m-%d)
